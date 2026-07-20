@@ -42,9 +42,5 @@
 * **Contribution Heatmap:**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipu-06&theme=github-compact&bg_color=0d1117&color=00ff66&line=00ff66&point=ff007f&hide_border=true" alt="Contribution Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dipu-06&theme=github-compact&bg_color=0d1117&color=00ff66&line=00ff66&point=ff007f&hide_border=true&radius=12" alt="Contribution Graph" />
 </p>
-
-* **WakaTime (coding activity):**
-
-![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)
