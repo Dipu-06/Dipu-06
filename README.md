@@ -42,5 +42,5 @@
 * **Contribution Heatmap:**
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dipu-06&theme=github-compact&bg_color=0d1117&color=00ff66&line=00ff66&point=ff007f&hide_border=true&radius=12" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
