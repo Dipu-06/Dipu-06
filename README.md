@@ -8,12 +8,12 @@
 
 ### 🔭 Quick info
 
-* **Name:** [Your Name]
+* **Name:** [Dipali Kumbhar]
 * **Degree:** B.E. / B.Tech in AI & ML Engineering
 * **Core Expertise:** Machine Learning, Deep Learning, Generative AI (LLMs, RAG, Diffusion)
 * **Tech Stack:** Python, PyTorch, TensorFlow, FastAPI, React, Tailwind CSS
 * **Portfolio:** [https://yourportfolio.com](https://yourportfolio.com)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **Email:** [kumbhardipali2026@gmail.com](mailto:your-email@example.com)
 
 ---
 
@@ -42,7 +42,7 @@
 * **Contribution Heatmap:**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&bg_color=0d1117&color=00ff66&line=00ff66&point=ff007f&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipu-06&theme=github-compact&bg_color=0d1117&color=00ff66&line=00ff66&point=ff007f&hide_border=true" alt="Contribution Graph" />
 </p>
 
 * **WakaTime (coding activity):**
